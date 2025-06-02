@@ -17,7 +17,7 @@
 /obj/effect/spawner/dungeons/maybechest
 	name = "Maybe a chest"
 	icon = 'icons/effects/landmarks_static.dmi'
-	icon_state = "generic_event"
+	icon_state = "x2"
 	var/tospawn = null
 
 /obj/effect/spawner/dungeons/maybechest/Initialize(mapload)
